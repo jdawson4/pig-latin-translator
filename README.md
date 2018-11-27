@@ -7,4 +7,4 @@ This repository includes a copy of De Bello Gallico (On the War in Gaul), as wel
 
 I have also included a copy of the King James translation of the Bible, as well as a King James Bible translated into Pig Latin. Again, I figure that you can access the Bible in Latin and English, but it's a shame that nobody offers the book in Pig Latin.
 
-This script requires Python 3 to be run and can be run using the terminal command 'python pigify.py', which translates all of the (preferably) .txt files placed in /eng_txts into Pig Latin that can be placed in /pig_lat_txts. # MAKE SURE THAT YOUR FOLDER REFLECTS THE FILE STRUCTURE ON THE MAIN PAGE.
+This script requires Python 3 to be run and can be run using the terminal command 'python pigify.py', which translates all of the (preferably) .txt files placed in /eng_txts into Pig Latin that can be placed in /pig_lat_txts. <strong> MAKE SURE THAT YOUR FOLDER REFLECTS THE FILE STRUCTURE ON THE MAIN PAGE. </strong>
